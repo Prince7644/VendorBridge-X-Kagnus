@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VendorBridge - Procurement & Vendor Management ERP
 
 **Week 1: Foundation & Vendor Management.** A full-stack web app with authentication, role-based
@@ -161,3 +162,7 @@ Bugs found by these tests and fixed during the build: filter changes being lost 
 
 ## Suggested next steps
 Run `npm test` on your machine against a real MongoDB, configure SMTP, deploy behind HTTPS, then build RFQs and Quotations on the existing vendor model (`vendorReferences` is where archive-protection will plug in) and extend `permissions.js` for new modules.
+=======
+# VendorBridge-X-Kagnus
+VendorBridge is a full-stack Procurement &amp; Vendor Management ERP built with React.js, Node.js, Express.js, and MongoDB. It provides secure authentication, role-based access control, an interactive procurement dashboard, and vendor management with CRUD operations, search, filtering, and persistent data storage.
+>>>>>>> 4d0061345105870268f9a0ef1c6b239480958bee
